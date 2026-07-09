@@ -1,8 +1,8 @@
 {
- "name": "Brian's Avenger",
-  "short_name": "Avenger", 
-  "start_url": "/Avenger.pages.dev",
-  "display": "standalone",
+  "name": "Brian's Avengers",
+  "short_name": "Avengers", 
+  "start_url": "/Avengers.pages.dev",
+  "display": "standalone", 
   "icons": [
   {
    "src": "\/images/android-icon-36x36.png",
@@ -11,7 +11,7 @@
    "density": "0.75"
   },
   {
-   "src": "\/images//android-icon-48x48.png",
+   "src": "\/images/android-icon-48x48.png",
    "sizes": "48x48",
    "type": "image\/png",
    "density": "1.0"
