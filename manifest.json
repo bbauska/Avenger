@@ -1,7 +1,7 @@
 {
-  "name": "Brian's Avengers",
-  "short_name": "Avengers", 
-  "start_url": "/Avengers.pages.dev",
+  "name": "Brian's Avenger",
+  "short_name": "Avenger", 
+  "start_url": "/Avenger.pages.dev",
   "display": "standalone", 
   "icons": [
   {
